@@ -26,7 +26,9 @@ Citation:
 
 --1. The proposed NS3R is very simple and powerful, which first adopts a spectral sparse PCA to get the representation coefficient images (RCIs), then uses a non-local low-rank approximation to further denoise the RCIs, and last get the denoised by inverse spectral sparse PCA.
 
---2. The proposed NS3R algorithm achieves very fast denoising speed and meanwhile obatains competitive denoising performance comapred with other state-of-the-art HSI denoising methods, including BM4D, LRMR, TDL, KBR, LLRT, E3DTV, FastHyDe, SNLRSF, NGmeet and TenSRDe. 
+--2. The proposed spectral sparse PCA startegy is very useful for real HSI denoising, which can adatively distinguishs the complex noise in real HSI data.
+
+--3. The proposed NS3R algorithm achieves very fast denoising speed and meanwhile obatains competitive denoising performance comapred with other state-of-the-art HSI denoising methods, including BM4D, LRMR, TDL, KBR, LLRT, E3DTV, FastHyDe, SNLRSF, NGmeet and TenSRDe. 
 
 ------May this work is helpful to you!-----
 
