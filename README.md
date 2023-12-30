@@ -1,5 +1,5 @@
-# Code of Hyperspectral Image Denoising via Nonlocal Spectral Sparse Subspace Representation (NS3R) - JSTARS-2023
-The released code of NS3R algorithms for HSI denoising, mainly proposed in the paper "HSI Denoising via Nonlocal Spectral Sparse Subspace Representation" which is accepted by the IEEE journal STARS, 2023.
+# Code of NS3R - JSTARS-2023
+The released code of NS3R algorithms for HSI denoising, mainly proposed in the paper "Hyperspectral Image Denoising via Nonlocal Spectral Sparse Subspace Representation" which is accepted by the IEEE journal STARS, 2023.
 
 Citation: 
 
