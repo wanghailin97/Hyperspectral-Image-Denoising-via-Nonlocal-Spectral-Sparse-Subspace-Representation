@@ -24,7 +24,7 @@ Citation:
 
 ------ Description-----
 
---1. The proposed NS3R is very simple and powerful, which first adopts a spectral sparse PCA to get the representation coefficient images (RCIs), then uses a non-local low-rank approximation to further denoise the RCIs, and last get the denoised by inverse spectral sparse PCA.
+--1. The proposed NS3R is very simple and powerful, which first adopts a spectral sparse PCA to get the representation coefficient images (RCIs), then uses a non-local low-rank approximation to further denoise the RCIs, and last get the denoised HSI data by inverse spectral sparse PCA.
 
 --2. The proposed spectral sparse PCA startegy is very useful for real HSI denoising, which can adatively distinguishs the complex noise in real HSI data.
 
